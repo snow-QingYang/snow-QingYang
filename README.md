@@ -8,7 +8,7 @@ I'm passionate about **computer graphics** and **Image/Video Generation**. Welco
 - 📫 You can contact me via [email](mailto:qingyangbao2003@gmail.com).
 
 ## GitHub Stats
-![Qingyang Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=QingyangBao&show_icons=true&theme=radical)
+![Qingyang Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snow-QingYang&show_icons=true&theme=radical)
 
 ## Tech Stack
 - 💻 **Languages**: Python, C++, C#, Haskell, CUDA
